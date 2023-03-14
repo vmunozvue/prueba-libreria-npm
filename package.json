@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-greeter",
+  "name": "prueba-libreria-npm",
   "version": "1.0.0",
   "description": "A nice greeter",
   "main": "lib/index.js",
@@ -14,10 +14,6 @@
      "preversion": "npm run lint",
      "version": "npm run format && git add -A src",
      "postversion": "git push && git push --tags"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/caki0915/my-awesome-greeter.git"
   },
   "keywords": ["Hello", "Greeter"],
   "author": "C-J",
