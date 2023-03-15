@@ -1,1 +1,3 @@
-export const Add = (a: number, b: number) => a + b;
+import { Calculator } from "./calculator"
+let myCalculator = new Calculator()
+console.log(myCalculator.add)
