@@ -1,3 +1,3 @@
-import { Calculator } from "./calculator"
+/*import { Calculator } from "./calculator"
 let myCalculator = new Calculator()
-console.log(myCalculator.add)
+console.log(myCalculator.add)*/
